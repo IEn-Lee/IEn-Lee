@@ -17,7 +17,7 @@ physical understanding with practical system design.
 
 ## Selected Research Projects
 
-### Viscosity-Controlled Syringe Pump
+### 🔗 [Viscosity-Controlled Syringe Pump](https://github.com/IEn-Lee/Master-Thesis_Viscosity-Controlled-Syringe-Pump)
 **Master's Thesis · Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU)**
 
 Developed a precision fluid-handling platform for a biomedical application,
@@ -34,7 +34,7 @@ embedded systems, viscosity-dependent compensation, and quantitative validation.
 
 ---
 
-### Automated Biomedical Test Platform
+### 🔗 [Automated Biomedical Test Platform](https://github.com/IEn-Lee/Endourological-Test-Bench-Embedded-Control)
 **Project Thesis · Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU)**
 
 Developed embedded control and experimental infrastructure for an automated

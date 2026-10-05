@@ -31,8 +31,9 @@ embedded systems, viscosity-dependent compensation, and quantitative validation.
 - Model-based open-loop compensation using experimentally calibrated parameters
 - Motion-parameter generation based on fluid and mechanical constraints
 - Experimental validation under calibrated and intermediate viscosity conditions
+- System integration combining mechanical components, sensors, actuator control, embedded software, and a touchscreen user interface
 
-**Keywords:** Precision Fluid Handling · High-Viscosity Dispensing · Fluid-Mechanical Modeling · Mechanical Design · Embedded Control · Viscosity-Dependent Compensation · Biomedical Devices · Experimental Validation
+**Keywords:** Precision Fluid Handling · High-Viscosity Dispensing · Fluid-Mechanical Modeling · Mechanical Design · Embedded Control · System Integration · Sensor–Actuator Integration · Experimental Validation
 
 ---
 

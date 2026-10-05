@@ -32,6 +32,8 @@ embedded systems, viscosity-dependent compensation, and quantitative validation.
 - Motion-parameter generation based on fluid and mechanical constraints
 - Experimental validation under calibrated and intermediate viscosity conditions
 
+**Keywords:** Precision Fluid Handling · High-Viscosity Dispensing · Fluid-Mechanical Modeling · Mechanical Design · Embedded Control · Viscosity-Dependent Compensation · Biomedical Devices · Experimental Validation
+
 ---
 
 ### 🔗 [Embedded Control & User Interface for an Automated Biomedical Test Bench](https://github.com/IEn-Lee/Endourological-Test-Bench-Embedded-Control)
@@ -49,6 +51,8 @@ platform used in long-term evaluation of endourological medical devices.
 - Automatic recovery from sensor communication failures
 - Long-duration autonomous experimental operation
 
+**Keywords:** Embedded C/C++ · Test Automation · Sensor–Actuator Integration · Non-Blocking Scheduling · LVGL · Touchscreen UI · Fault Recovery · Long-Term Testing
+
 ---
 
 ### 🔗 [G-code Optimization for RTV-2 Silicone Additive Manufacturing](https://github.com/IEn-Lee/Research-Assistant_Software-Enabled-Additive-Manufacturing-with-Low-Viscosity-Silicone/tree/main)
@@ -62,6 +66,8 @@ additive manufacturing using two-component RTV-2 silicone.
 - Slicer-generated G-code analysis and manipulation
 - Feedrate optimization using PID-based iterative control and segment-level sparse optimization
 - Numerical evaluation and experimental printing validation
+
+**Keywords:** RTV-2 Silicone · Additive Manufacturing · Python · G-code Post-Processing · Residence-Time Modeling · Curing-Aware Optimization · PID-Based Optimization · Experimental Validation
 
 ## Technical Areas
 

@@ -95,7 +95,7 @@ Calibration · Automated Testing · Long-Duration Experiments · Quantitative Va
   Manuscript submitted to **IEEE ISMT 2026**.  
   Research software and data: [Zenodo DOI: 10.5281/zenodo.21382318](https://doi.org/10.5281/zenodo.21382318).
 
-- **Journal manuscript in preparation** on model-based optimization of extrusion-based additive manufacturing of two-component RTV-2 silicone, 2026.
+- **Software Enabled Additive Manufacturing with Low Viscosity Silicone** journal manuscript in preparation, 2026.
 
 ## Conference Contributions
 

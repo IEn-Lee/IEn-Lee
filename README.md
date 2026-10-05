@@ -51,7 +51,7 @@ platform used in long-term evaluation of endourological medical devices.
 
 ---
 
-### Silicone Additive Manufacturing Process Optimization
+### 🔗 [Silicone Additive Manufacturing Process Optimization](https://github.com/IEn-Lee/Research-Assistant_Software-Enabled-Additive-Manufacturing-with-Low-Viscosity-Silicone/tree/main)
 **Student Research Assistant · Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU)**
 
 Worked on model-based process optimization and control for extrusion-based

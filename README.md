@@ -88,7 +88,29 @@ Calibration · Automated Testing · Long-Duration Experiments · Quantitative Va
 
 ## Research Outputs
 
-Updating~~
+## Publications and Manuscripts
+
+- A. Preis, R. Vahidi, **I.-E. Lee**, J. Walter, J. Franke, and J. Fürst.  
+  *An Automated In-Vitro Platform for Long-Term Evaluation of Endourological Medical Devices — Integrating Urodynamic Micturition Simulation and Real-Time Anomaly Detection.*  
+  Manuscript submitted to **IEEE ISMT 2026**.  
+  Research software and data: [Zenodo DOI: 10.5281/zenodo.21382318](https://doi.org/10.5281/zenodo.21382318).
+
+- **Journal manuscript in preparation** on model-based optimization of extrusion-based additive manufacturing of two-component RTV-2 silicone, 2026.
+
+## Conference Contributions
+
+- W.-H. Ruan, **I.-E. Lee**, et al.  
+  *Acoustic Filtering for Flow Energy Analysis.*  
+  Conference abstract and oral presentation, **2021 Annual Meeting of the Taiwanese Society of Biomedical Engineering**, 19–20 November 2021, Taichung, Taiwan / Online.
+
+- C.-K. Su, Q.-Y. Huang, W.-H. Ruan, **I.-E. Lee**, K.-W. Chao, Y.-C. Chao, C.-H. Su, C.-S. Gong, M.-X. Lee, P.-Y. Chen, and W.-H. Chiu.  
+  *Application of Regression Model to Realize the Prediction of COVID-19.*  
+  **2021 Annual Meeting of the Taiwanese Society of Biomedical Engineering**, 19–20 November 2021, Taichung, Taiwan / Online.  
+  Written in Chinese.
+
+- K.-W. Chao, Y.-H. Chen, Y.-Y. Ho, D.-Y. Guu, L.-B. Luo, C.-W. Tseng, C.-H. Su, C.-S. Gong, Q.-Y. Huang, **I.-E. Lee**, Y.-W. Lin, Z.-H. Wu, T.-C. Tseng, K.-S. Hsieh, and Y.-H. Chou.  
+  *Acoustic-based and Machine Learning-Driven Methods for Vehicle Fault Classification.*  
+  **26th National Conference on Vehicle Engineering**, 12 November 2021, Changhua, Taiwan.
 
 <!--
 **IEn-Lee/IEn-Lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

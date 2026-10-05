@@ -34,7 +34,7 @@ embedded systems, viscosity-dependent compensation, and quantitative validation.
 
 ---
 
-### 🔗 [Automated Biomedical Test Platform](https://github.com/IEn-Lee/Endourological-Test-Bench-Embedded-Control)
+### 🔗 [Embedded Control & User Interface for an Automated Biomedical Test Bench](https://github.com/IEn-Lee/Endourological-Test-Bench-Embedded-Control)
 **Project Thesis · Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU)**
 
 Developed embedded control and experimental infrastructure for an automated
@@ -51,7 +51,7 @@ platform used in long-term evaluation of endourological medical devices.
 
 ---
 
-### 🔗 [Silicone Additive Manufacturing Process Optimization](https://github.com/IEn-Lee/Research-Assistant_Software-Enabled-Additive-Manufacturing-with-Low-Viscosity-Silicone/tree/main)
+### 🔗 [G-code Optimization for RTV-2 Silicone Additive Manufacturing](https://github.com/IEn-Lee/Research-Assistant_Software-Enabled-Additive-Manufacturing-with-Low-Viscosity-Silicone/tree/main)
 **Student Research Assistant · Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU)**
 
 Worked on model-based process optimization and control for extrusion-based

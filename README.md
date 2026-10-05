@@ -88,7 +88,7 @@ Calibration · Automated Testing · Long-Duration Experiments · Quantitative Va
 
 ## Research Outputs
 
-## Publications and Manuscripts
+### Publications and Manuscripts
 
 - A. Preis, R. Vahidi, **I.-E. Lee**, J. Walter, J. Franke, and J. Fürst.  
   *An Automated In-Vitro Platform for Long-Term Evaluation of Endourological Medical Devices — Integrating Urodynamic Micturition Simulation and Real-Time Anomaly Detection.*  
@@ -97,7 +97,7 @@ Calibration · Automated Testing · Long-Duration Experiments · Quantitative Va
 
 - **Software Enabled Additive Manufacturing with Low Viscosity Silicone** journal manuscript in preparation, 2026.
 
-## Conference Contributions
+### Conference Contributions
 
 - W.-H. Ruan, **I.-E. Lee**, et al.  
   *Acoustic Filtering for Flow Energy Analysis.*  

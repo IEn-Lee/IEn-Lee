@@ -26,14 +26,14 @@ embedded systems, viscosity-dependent compensation, and quantitative validation.
 
 **Highlights**
 - Fluid viscosity range of approximately 1–60,000 mPa·s
-- CAD-based mechanical design and prototype fabrication
+- CAD-based mechanical design and prototype fabrication incorporating Design for Manufacturing (DFM) and Design for Additive Manufacturing (DfAM) principles
 - Stepper-motor actuation and embedded C/C++ control
 - Model-based open-loop compensation using experimentally calibrated parameters
 - Motion-parameter generation based on fluid and mechanical constraints
 - Experimental validation under calibrated and intermediate viscosity conditions
 - System integration combining mechanical components, sensors, actuator control, embedded software, and a touchscreen user interface
 
-**Keywords:** Precision Fluid Handling · High-Viscosity Dispensing · Fluid-Mechanical Modeling · Mechanical Design · Embedded Control · System Integration · Sensor–Actuator Integration · Experimental Validation
+**Keywords:** Precision Fluid Handling · High-Viscosity Dispensing · Fluid-Mechanical Modeling · Mechanical Design · DFM · DfAM · Embedded Control · System Integration · Sensor–Actuator Integration · Experimental Validation
 
 ---
 
